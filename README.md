@@ -1,1 +1,2 @@
 # DevOps
+knowledge is power 
